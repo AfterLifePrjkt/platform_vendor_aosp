@@ -78,12 +78,10 @@ PRODUCT_PACKAGES += \
     librs_jni \
     Stk \
     AEXPapers \
-    DuckDuckGo \
-    MusicPlayerGO \
     Recorder \
     ExactCalculator \
     Etar \
-    DevicePersonalizationPrebuiltPixel2021
+    GameSpace
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \
