@@ -13,8 +13,8 @@
 # limitations under the License.
 
 #Extended Versioning
-EXTENDED_VERSION = v9.1
-EXTENDED_BUILD_TYPE ?= UNOFFICIAL
+EXTENDED_VERSION = AfterLife
+EXTENDED_BUILD_TYPE ?= V4.0
 
 ifeq ($(EXTENDED_BUILD_TYPE), OFFICIAL)
 
