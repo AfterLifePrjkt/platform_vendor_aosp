@@ -81,6 +81,7 @@ PRODUCT_PACKAGES += \
     Recorder \
     ExactCalculator \
     Etar \
+    DevicePersonalizationPrebuiltPixel2021 \
     GameSpace
 
 # SystemUI plugins
