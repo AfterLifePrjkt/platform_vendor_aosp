@@ -82,6 +82,7 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     Etar \
     DevicePersonalizationPrebuiltPixel2021 \
+    OmniJaws \
     GameSpace
 
 # SystemUI plugins
