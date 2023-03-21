@@ -13,7 +13,7 @@
 # limitations under the License.
 
 #Extended Versioning
-EXTENDED_VERSION = V4.0
+EXTENDED_VERSION = EndGame
 EXTENDED_BUILD_TYPE ?= AfterLife
 
 ifeq ($(EXTENDED_BUILD_TYPE), OFFICIAL)
