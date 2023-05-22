@@ -13,7 +13,7 @@
 # limitations under the License.
 
 #Extended Versioning
-EXTENDED_VERSION = gen-Z
+EXTENDED_VERSION = genZ
 EXTENDED_BUILD_TYPE ?= AfterLife
 
 ifeq ($(EXTENDED_BUILD_TYPE), OFFICIAL)
